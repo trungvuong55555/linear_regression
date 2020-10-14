@@ -17,7 +17,7 @@ plt.xlabel('Nangsuatluami(kg/ha)')
 plt.ylabel('Matdotrong(no./m2)')
 plt.show()
 
-#tao mot kieu du lieu x moi goi la xbar, tuc la them mot vector cot [1] vao dau vector x
+#tao mot kieu du lieu x moi goi la xbar, tuc la them mot vector hang [1] vao dau vector x
 #xbar*w=y(2)
 
 one = np.ones((x.shape[0], 1)) # tao mot vecto doc co gia tri bang 1
